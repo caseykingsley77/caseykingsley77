@@ -1,5 +1,14 @@
 ### <div align="center">👋 Hello, I'm Ezennia Kingsley
 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bobbyg603&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 💼 About Me:
 I'm a passionate Full-Stack developer with a strong interest in web development and data science. With a commitment to continuous learning and growth, I enjoy building scalable, efficient, and user-friendly applications. My goal is to contribute to impactful projects and collaborate with like-minded developers.</div>  
   
@@ -93,25 +102,7 @@ I’m open to collaboration on innovative web development projects that focus on
 
 <br/>  
 
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bobbyg603&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 <br />
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
