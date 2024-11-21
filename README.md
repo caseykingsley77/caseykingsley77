@@ -8,7 +8,7 @@
   
 
 <br/>  
-<a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a>
+
 
 💼 About Me:
 I'm a passionate Full-Stack developer with a strong interest in web development and data science. With a commitment to continuous learning and growth, I enjoy building scalable, efficient, and user-friendly applications. My goal is to contribute to impactful projects and collaborate with like-minded developers.</div>  
@@ -100,6 +100,7 @@ I’m open to collaboration on innovative web development projects that focus on
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseykingsley77&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a></div>  
 
 <br/>  
 
