@@ -1,110 +1,113 @@
-### <div align="center">👋 Hello, I'm Ezennia Kingsley
+<div align="center">
 
-<br/>  
+# Ezennia "Casey" Kingsley
+### Full-Stack Software Engineer · Blockchain Developer · Engineering Mentor & Team Lead
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingsleyezennia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caseykingsley77)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/casey_kingsley)
+
+</div>
+
+---
+
+## 👨🏾‍💻 About Me
+
+I'm a Nigeria-based Full-Stack Software Engineer with two degrees in Computer Science and a track record that spans hands-on product engineering and technical leadership. I currently serve as **Head of Campus at Learn2Earn**, where I lead a team of mentors guiding student fellows through real-world software engineering, while also building and shipping production fintech platforms independently.
+
+What sets me apart isn't just writing code — it's the ability to **own a problem end-to-end**: architecting a system, implementing it across the stack, deploying and operating it in production, and then translating that same hard-won judgment into curriculum that turns junior engineers into capable ones.
+
+- 🏦 Building **AlphaEquity** — a Django-based investment/fintech platform with portfolio management, FIFO withdrawal logic, crypto wallet integration, and transactional email infrastructure
+- 🎓 Leading mentorship and technical curriculum design at **Learn2Earn**, managing a team of mentors and designing assessment systems that test genuine understanding over surface-level code assembly
+- ⛓️ Expanding into **Go and Solidity**, deepening my blockchain and systems-level engineering capability
+- 🌱 Continuously learning across Kubernetes, Hyperledger, and distributed systems
+
+---
+
+## 🧠 What Makes Me Hard to Replace
+
+| Strength | Why It Matters |
+|---|---|
+| **Full lifecycle ownership** | I design, build, deploy, debug, and operate systems in production — not just write code in a sandbox |
+| **Cross-domain fluency** | Comfortable moving between web backends, frontend UI, blockchain/smart contracts, and infra/DevOps |
+| **Production troubleshooting** | Real experience resolving live issues — hosting suspensions, SMTP failures in serverless environments, transactional email scaling, Git branch divergence |
+| **Technical leadership** | I manage engineers (mentors) and have built rigorous evaluation systems that scale quality across a team |
+| **Teaching as a force multiplier** | I can take complex systems and make them learnable — a skill most engineers never develop |
+| **Domain depth in fintech** | Hands-on experience with investment platforms, withdrawal/ledger logic, and financial data integrity |
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+- Python
+- JavaScript
+- Go
+- Solidity
+- PHP
+- Kotlin
+- Java
+
+</td>
+<td valign="top" width="25%">
+
+**Backend & Frameworks**
+- Django
+- Node.js
+- REST API Design
+- PostgreSQL · MySQL
+- MongoDB
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5 · CSS3 · Sass
+- Bootstrap
+
+</td>
+<td valign="top" width="25%">
+
+**Blockchain & Infra**
+- Solidity / Smart Contracts
+- Docker
+- Git / GitLab
+- AWS
+- Linux
+- (Learning) Kubernetes, Hyperledger
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Work
+
+**AlphaEquity** — Full-stack Django investment platform with portfolio management, FIFO withdrawal logic, crypto wallet display, custom admin tooling, and SendGrid-based transactional email infrastructure.
+
+**Learn2Earn Curriculum & Mentorship Systems** — Designed tiered assessment rubrics, recoding exercises, and technical evaluation frameworks (`ascii-art`, `ascii-art-web`, `go-reloaded`, `quadchecker`) used to train and assess fellow engineers across a mentor team.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=bobbyg603&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-💼 About Me:
-I'm a passionate Software Engineer with a strong interest in web development and data science. With a commitment to continuous learning and growth, I enjoy building scalable, efficient, and user-friendly applications. My goal is to contribute to impactful projects and collaborate with like-minded developers.</div>  
-  
-
-- 🔭I’m interested in Web development and data science  
-  
-
-- 👨‍🏫 I’m currently learning Solidity, Hyperledger and Kubernetes  
-  
-
-- 👨‍💻 Currently Working On:
-Sharpening my skills in web development and exploring data science applications to deliver data-driven solutions.  
-  
-
-- 🤝 Looking to Collaborate:
-I’m open to collaboration on innovative web development projects that focus on building high-quality, user-centric applications.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<img src="https://komarev.com/ghpvc/?username=caseykingsley77&style=flat-square" alt="profile views" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.go-lang.com/" target="_blank"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" height="50" /></a>
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/caseykingsley77" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/casey_kingsley" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kingsleyezennia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a>
+</div>
 
-<br/>  
+---
 
+## 🤝 Let's Connect
 
-## Daily Dev Card
-
-<div align="center"><a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a></div>  
-
-<br/>  
-
-  
-
-
-<br />
+I'm open to collaborating on ambitious fintech, blockchain, or developer-education projects. Reach out via [LinkedIn](https://linkedin.com/in/kingsleyezennia) or check out my work on [GitHub](https://github.com/caseykingsley77).
