@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ezennia "Casey" Kingsley
-### Full-Stack Software Engineer · Blockchain Developer · Engineering Mentor & Team Lead
+### Full-Stack Software Engineer · Engineering Mentor & Team Lead
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingsleyezennia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caseykingsley77)
