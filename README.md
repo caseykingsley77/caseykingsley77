@@ -24,12 +24,12 @@ What sets me apart isn't just writing code — it's the ability to **own a probl
 
 ---
 
-## 🧠 What Makes Me Hard to Replace
+## 🧠 What Makes Me Matter
 
 | Strength | Why It Matters |
 |---|---|
 | **Full lifecycle ownership** | I design, build, deploy, debug, and operate systems in production — not just write code in a sandbox |
-| **Cross-domain fluency** | Comfortable moving between web backends, frontend UI, blockchain/smart contracts, and infra/DevOps |
+| **Cross-domain fluency** | Comfortable moving between web backends, frontend UI, blockchain/smart contracts, AI/ML, Data Eng. and infra/DevOps |
 | **Production troubleshooting** | Real experience resolving live issues — hosting suspensions, SMTP failures in serverless environments, transactional email scaling, Git branch divergence |
 | **Technical leadership** | I manage engineers (mentors) and have built rigorous evaluation systems that scale quality across a team |
 | **Teaching as a force multiplier** | I can take complex systems and make them learnable — a skill most engineers never develop |
