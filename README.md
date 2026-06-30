@@ -18,7 +18,7 @@ I'm a Nigeria-based Full-Stack Software Engineer with two degrees in Computer Sc
 What sets me apart isn't just writing code — it's the ability to **own a problem end-to-end**: architecting a system, implementing it across the stack, deploying and operating it in production, and then translating that same hard-won judgment into curriculum that turns junior engineers into capable ones.
 
 - 🏦 Building  — a Django-based investment/fintech platform with portfolio management, FIFO withdrawal logic, crypto wallet integration, and transactional email infrastructure
-- 🎓 Leading mentorship and technical curriculum design at **Learn2Earn**, managing a team of mentors and designing assessment systems that test genuine understanding over surface-level code assembly
+- 🎓 Leading mentorship at **Learn2Earn**, managing a team of mentors and designing assessment systems that test genuine understanding over surface-level code assembly
 - ⛓️ Expanding into **Go, Rust and Solidity**, deepening my blockchain and systems-level engineering capability
 - 🌱 Continuously learning across Kubernetes, Hyperledger, and distributed systems
 
