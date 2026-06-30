@@ -17,9 +17,9 @@ I'm a Nigeria-based Full-Stack Software Engineer with two degrees in Computer Sc
 
 What sets me apart isn't just writing code — it's the ability to **own a problem end-to-end**: architecting a system, implementing it across the stack, deploying and operating it in production, and then translating that same hard-won judgment into curriculum that turns junior engineers into capable ones.
 
-- 🏦 Building **AlphaEquity** — a Django-based investment/fintech platform with portfolio management, FIFO withdrawal logic, crypto wallet integration, and transactional email infrastructure
+- 🏦 Building  — a Django-based investment/fintech platform with portfolio management, FIFO withdrawal logic, crypto wallet integration, and transactional email infrastructure
 - 🎓 Leading mentorship and technical curriculum design at **Learn2Earn**, managing a team of mentors and designing assessment systems that test genuine understanding over surface-level code assembly
-- ⛓️ Expanding into **Go and Solidity**, deepening my blockchain and systems-level engineering capability
+- ⛓️ Expanding into **Go, Rust and Solidity**, deepening my blockchain and systems-level engineering capability
 - 🌱 Continuously learning across Kubernetes, Hyperledger, and distributed systems
 
 ---
@@ -51,6 +51,9 @@ What sets me apart isn't just writing code — it's the ability to **own a probl
 - PHP
 - Kotlin
 - Java
+- Rust
+- Java
+- C
 
 </td>
 <td valign="top" width="25%">
@@ -61,6 +64,7 @@ What sets me apart isn't just writing code — it's the ability to **own a probl
 - REST API Design
 - PostgreSQL · MySQL
 - MongoDB
+- SQL
 
 </td>
 <td valign="top" width="25%">
@@ -88,19 +92,9 @@ What sets me apart isn't just writing code — it's the ability to **own a probl
 
 ---
 
-## 🚀 Featured Work
 
-**AlphaEquity** — Full-stack Django investment platform with portfolio management, FIFO withdrawal logic, crypto wallet display, custom admin tooling, and SendGrid-based transactional email infrastructure.
 
-**Learn2Earn Curriculum & Mentorship Systems** — Designed tiered assessment rubrics, recoding exercises, and technical evaluation frameworks (`ascii-art`, `ascii-art-web`, `go-reloaded`, `quadchecker`) used to train and assess fellow engineers across a mentor team.
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=caseykingsley77&style=flat-square" alt="profile views" />
-</div>
 
 <div align="center">
 <a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a>
