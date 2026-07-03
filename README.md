@@ -101,16 +101,7 @@ What sets me apart isn't just writing code — it's the ability to **own a probl
 </div>
 
 ---
-# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caseykingsley77&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=caseykingsley77&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseykingsley77&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ## 🤝 Let's Connect
 
