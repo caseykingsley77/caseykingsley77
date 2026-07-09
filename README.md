@@ -1,108 +1,23 @@
 <div align="center">
+  <br><br><br>
+  
+  <!-- Sophisticated infinite spinner -->
+  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/180-ring-with-bg.svg" width="80" alt="Endless Loading Spinner">
+  
+  <br><br>
+  
+  <h2><b>Fetching Greatness...</b></h2>
+  <p><i>Compiling an ungodly amount of undocumented code...</i></p>
 
-# Ezennia "Casey" Kingsley
-### Software Engineer · Engineering Mentor & Team Lead
+  <br>
+  <hr style="width: 40%; border: 1px solid #444;">
+  <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingsleyezennia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caseykingsley77)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/casey_kingsley)
+  <p>Actually, let's be real. That spinner is going to stop soon</p>
+  
+  <p>I haven't updated this README since the Paleolithic era. There are <i>so many</i> groundbreaking, industry-disrupting projects that I've built which absolutely haven't been reflected here yet. You're just going to have to take my word for it—my local machine is a museum of brilliance.</p>
 
+  <p>Bear with me  I'm eventually going to document them. Until then. Coming soon</p>
+
+  <br><br><br>
 </div>
-
----
-
-## 👨🏾‍💻 About Me
-
-I'm a Nigeria-based Full-Stack Software Engineer with two degrees in Computer Science and a track record that spans hands-on product engineering and technical leadership. I currently serve as **Head of Campus at Learn2Earn**, where I lead a team of mentors guiding student fellows through real-world software engineering, while also building and shipping production fintech platforms independently.
-
-What sets me apart isn't just writing code — it's the ability to **own a problem end-to-end**: architecting a system, implementing it across the stack, deploying and operating it in production, and then translating that same hard-won judgment into curriculum that turns junior engineers into capable ones.
-
-- 🏦 Building  — a Django-based investment/fintech platform with portfolio management, FIFO withdrawal logic, crypto wallet integration, and transactional email infrastructure
-- 🎓 Leading mentorship at **Learn2Earn**, managing a team of mentors and designing assessment systems that test genuine understanding over surface-level code assembly
-- ⛓️ Expanding into **Go, Rust and Solidity**, deepening my blockchain and systems-level engineering capability
-- 🌱 Continuously learning across Kubernetes, Hyperledger, and distributed systems
-
----
-
-## 🧠 What Makes Me Matter
-
-| Strength | Why It Matters |
-|---|---|
-| **Full lifecycle ownership** | I design, build, deploy, debug, and operate systems in production — not just write code in a sandbox |
-| **Cross-domain fluency** | Comfortable moving between web backends, frontend UI, blockchain/smart contracts, AI/ML, Data Eng. and infra/DevOps |
-| **Production troubleshooting** | Real experience resolving live issues — hosting suspensions, SMTP failures in serverless environments, transactional email scaling, Git branch divergence |
-| **Technical leadership** | I manage engineers (mentors) and have built rigorous evaluation systems that scale quality across a team |
-| **Teaching as a force multiplier** | I can take complex systems and make them learnable — a skill most engineers never develop |
-| **Domain depth in fintech** | Hands-on experience with investment platforms, withdrawal/ledger logic, and financial data integrity |
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**Languages**
-- Python
-- JavaScript
-- Go
-- Solidity
-- PHP
-- Kotlin
-- Java
-- Rust
-- Java
-- C
-
-</td>
-<td valign="top" width="25%">
-
-**Backend & Frameworks**
-- Django
-- Node.js
-- REST API Design
-- PostgreSQL · MySQL
-- MongoDB
-- SQL
-
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5 · CSS3 · Sass
-- Bootstrap
-
-</td>
-<td valign="top" width="25%">
-
-**Blockchain & Infra**
-- Solidity / Smart Contracts
-- Docker
-- Git / GitLab
-- AWS
-- Linux
-- (Learning) Kubernetes, Hyperledger
-
-</td>
-</tr>
-</table>
-
----
-
-
-
-
-
-<div align="center">
-<a href="https://app.daily.dev/ezege"><img src="https://api.daily.dev/devcards/v2/Pt1Kxj0ub4Nz0pHVbVdsY.png?r=rvc&type=default" width="356" alt="Kingsley Ezennia's Dev Card"/></a>
-</div>
-
----
-
-
-## 🤝 Let's Connect
-
-I'm open to collaborating on ambitious fintech, blockchain, or developer-education projects. Reach out via [LinkedIn](https://linkedin.com/in/kingsleyezennia) or check out my work on [GitHub](https://github.com/caseykingsley77).
