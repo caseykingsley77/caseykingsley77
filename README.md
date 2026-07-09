@@ -7,7 +7,9 @@
   <br><br>
   
   <h2><b>Fetching Greatness...</b></h2>
+  <h2><b>Private Repo graph opening...</b></h2>
   <p><i>Compiling an ungodly amount of undocumented code...</i></p>
+  
 
   <br>
   <hr style="width: 40%; border: 1px solid #444;">
