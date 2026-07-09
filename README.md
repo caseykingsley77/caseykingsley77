@@ -13,8 +13,8 @@
   <hr style="width: 40%;">
   <br>
 
-  <p>Actually, let's be real. That spinner is going to loop forever.</p>
-  <p>I haven't updated this README in forever, so an embarrassing amount of my projects haven't been reflected here yet. Bear with me while I pretend I'll eventually document them.</p>
+
+  <p>I haven't updated this README in forever, so an embarrassing amount of my projects haven't been reflected here yet...</p>
 
   <br>
 </div>
